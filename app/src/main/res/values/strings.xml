@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Criminal</string>
+    <string name="action_settings">Settings</string>
+    <string name="crime_title_hint">Enter the title of the crime</string>
+    <string name="crime_title_label">Enter the title of the crime</string>
+    <string name="crime_details_label">Enter the Details of the crime</string>
+    <string name="crime_solved_label">Enter the title of the crime</string>
+
+
+</resources>
